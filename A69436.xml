@@ -1,0 +1,834 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diurnal speculum, for the year of our Lord God, 1684 Being the bissextile, or leap-year, with annual and Mon[thly] predictions &amp; progn[o]stications astrologically handled. (Written and design'd for the press in Aug, 1683. but its publication prevented by the printers t[e]merity.) Wherein was fore-told, in D[e]cemb. 1683. the late and unheard of frost; with the events that may probably and suddenly ensue thereon. By Richard Kirkby, student in astrology and physick.</title>
+            <author>Kirby, Richard, b. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69436</idno>
+            <idno type="STC">Wing A1855A</idno>
+            <idno type="STC">Wing K620</idno>
+            <idno type="STC">ESTC R215700</idno>
+            <idno type="EEBO-CITATION">99827483</idno>
+            <idno type="PROQUEST">99827483</idno>
+            <idno type="VID">31902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1861:12; 2210:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diurnal speculum, for the year of our Lord God, 1684 Being the bissextile, or leap-year, with annual and Mon[thly] predictions &amp; progn[o]stications astrologically handled. (Written and design'd for the press in Aug, 1683. but its publication prevented by the printers t[e]merity.) Wherein was fore-told, in D[e]cemb. 1683. the late and unheard of frost; with the events that may probably and suddenly ensue thereon. By Richard Kirkby, student in astrology and physick.</title>
+                  <author>Kirby, Richard, b. 1649.</author>
+               </titleStmt>
+               <extent>[2], 41, [1] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bringhurst, at the sign of the Book and Three Black-Birds, in Leaden-Hall Mutton-Market, (who formerly lived at the Book in Grace-Church-Street),</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary advertisement leaf.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs --  Early works to 1800.</term>
+               <term>Predictive astrology --  Early works to 1800.</term>
+               <term>Weather forecasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:31902:1"/>
+            <p>
+               <hi>ADVERTISEMENT,</hi> Of a late Book by the ſame Author, viz. <hi>Vates Aſtrologicus,</hi> or Englands Aſtrological-Prophet, <hi>&amp;c.</hi> Sold by <hi>Thomas Malthus,</hi> at the <hi>Sun</hi> in the <hi>Poultry.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:31902:1" rendition="simple:additions"/>
+            <p>A Diurnal Speculum, FOR THE Year of our LORD GOD, 1684.</p>
+            <p>BEING The <hi>Biſſextile,</hi> or LEAP-YEAR, With Annual and Mon<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>Predictions</hi> &amp; <hi>Progn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtications</hi> ASTROLOGICALLY Handled.</p>
+            <p>(Written and Deſign'd for the Preſs in <hi>Aug,</hi> 1683. but its Publication prevented by the <hi>Printers</hi> T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>merity.)</p>
+            <p>Wherein was fore-told, in <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cemb.</hi> 1683. the late and unheard of <hi>Froſt;</hi> with the Events that may probably and ſuddenly enſue thereon.</p>
+            <p>By <hi>Richard Kirby,</hi> Student in Aſtrology and Phyſick.</p>
+            <q>
+               <p>Coeli ennarant Dei fortis, &amp; opus Manuum ejus judicat expanſum coram,</p>
+               <bibl>
+                  <hi>Pſal. 19.1</hi>
+               </bibl>
+               <p>The Hea<g ref="char:EOLhyphen"/>vens declare the Glory of God, and the Firma<g ref="char:EOLhyphen"/>ment ſheweth his Handy-Work, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bringhurſt,</hi> at the ſign of the <hi>Book</hi> and <hi>Three Black-Birds,</hi> in <hi>Leaden-Hall Mutton-Market,</hi> (who formerly Lived at the <hi>Book</hi> in <hi>Grace-Church-Street</hi>) 1684.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:31902:2"/>
+            <pb facs="tcp:31902:2"/>
+            <head>The Preface to the Reader.</head>
+            <p>AS the Fall of Man made himſelf, and all other Creatures ſubject to Vani<g ref="char:EOLhyphen"/>ty; ſo, by Reaſon thereof, the moſt Noble and Excellent Arts, where<g ref="char:EOLhyphen"/>with the Rational Soul was endued, are by the ruſty Canker of Time, brought unto Corruption; for <hi>Aſtrology</hi> it ſelf, which the Antients did ſo highly eſteem of, is ſcandalized with bear<g ref="char:EOLhyphen"/>ing the Badge of Conjuration, Witchcraft, and all Diabolical Sorceries: Many Men there are, that hate the very Name of <hi>Aſtrology;</hi> and why is that? becauſe they underſtand it not. Therefore, I may very well ſay; <hi>Pauci intel<g ref="char:EOLhyphen"/>ligunt, multi reprehendunt, &amp; ſicut Canes ignotos ſemper allatrant;</hi> Few underſtand, many reprehend, and as Dogs bark at thoſe they know not. I know all, or moſt of the Ob<g ref="char:EOLhyphen"/>jections that are made againſt the Art; and could with great Eaſe anſwer them, and their reproachful Tongues and Calumnies; who call it Conjuration, Witchcraft; and therefore un<g ref="char:EOLhyphen"/>lawful: I could produce ſufficient Arguments, to prove, that Devils know not Future Events any more than Men do; <hi>(i. e.)</hi> that is, by the ſame Signs. And as to the common Objection,
+<pb facs="tcp:31902:3"/>
+               <hi>(viz.)</hi> That it hinders Prayer, and other Du<g ref="char:EOLhyphen"/>tie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d is an Encouragement to Atheiſm: 'Tis no more b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t what is o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted againſt the great D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctrine of <hi>Election</hi> and <hi>Reprobation;</hi> and ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſame Anſwer, tho' I muſt not now ſtand thereon: For m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own part, I know no b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter Argument againſt the One, nor for the O<g ref="char:EOLhyphen"/>ther, than This or That. But, in fine, learn firſt to be a good and ſound Chriſtian, and af<g ref="char:EOLhyphen"/>terwards a good <hi>Aſtrologer;</hi> and thou wilt ſee ſo much of <hi>God's</hi> Power, Wiſdom, and Good<g ref="char:EOLhyphen"/>neſs, as will make thee love and ſerve him the more<g ref="char:punc">▪</g> and with that holy King <hi>David,</hi> to ſay, <hi>When I behold, and conſider the Heavens, the Work of thy Fingers, the Moon, and the Stars, which thou haſt ordained: What is Man, that thou art mindful of him,</hi> &amp;c. <hi>For the Heavens declare the Glory of</hi> God, <hi>and the Firmament ſheweth his Handy<g ref="char:EOLhyphen"/>work: Day unto Day u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tereth Speech, and Night unto Night ſheweth Knowledge;</hi> Pſal. <hi>8 19.</hi>
+            </p>
+            <p>And why any Man ſhould be more offended with me, for making Obſervation, and giving my Judgment upon the <hi>Stars</hi> Inclinations; than with a Phyſician, who by the Pulſe or Urine, tells the Diſeaſe of a Sick Patient; I know not; nor will any, I hope: ſeeing that if my Conjectures
+<pb facs="tcp:31902:3"/>hit, I am not the Cauſe<g ref="char:punc">▪</g> and if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, they no ways the worſe: For it is not to be expect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, but I ſhould ſometimes miſs; for, <hi>Mult moſt de Rebus Coeleſtibus aſiquid co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cere;</hi> It is much to know a litile of Heavenly thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs, the beſt of us know but in par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and are of mi<g ref="char:EOLhyphen"/>ſtaken too; for as we are Men, may err<g ref="char:punc">▪</g> Yet I may ſay thus far; Let Man live meerly as a Natural Man, without Spark of Grace, the In<g ref="char:EOLhyphen"/>fluence of the <hi>Stars</hi> predominates<g ref="char:punc">▪</g> but where Grace rules, the <hi>Stars</hi> obey. This I mean in Mens Qualities, <hi>&amp;c.</hi>
+            </p>
+            <p>But to conclude: I ſhall ſay a word or two to the ignorant Inhabitants of <hi>Ful-<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m:</hi> which have been either Taylers, Foot-bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Grooms, Brick-place-Boys, or the like; I mean all thoſe which condemn that harmleſs, uſ ful, pious, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d judicious Art of <hi>Aſtrology;</hi> whom the Anti<g ref="char:EOLhyphen"/>ents and Learned ſo highl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſteemed of, in all Ages; and now is ſcandalized and condemned by ſuch idle, illiterate Fellows as thoſe, who ſcarcely know the h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſing of a Snake, from a Gooſe; but, like Parra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, talk without Book, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <l>Hence you fiery Zealots: you I dare to tell,</l>
+               <l>That <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>logy</hi> is from H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aven, and not from H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll.</l>
+               <l>It<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s no Black Art, nor damned N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cromancy:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or no Witchcraft, as you Fools pleaſe to fancy.</l>
+               <l>Your ſhallow Brains thinks all thats hard or high,</l>
+               <l>Is unlawful, or elſe Impoſſibility.</l>
+               <l>But hence carping Critleks<g ref="char:punc">▪</g> it's paſt your Skill<g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:31902:4"/>
+               <l>Hence envious Momes, converting Good to Ill.</l>
+               <l>Hence dull Conce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pts, which have not true diſcerning:</l>
+               <l>Hence all at once, which lack or Love, not Learning.</l>
+               <l>You thick-ſcull<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Fops, which preſume herein to peep:</l>
+               <l>And think there is Nonſenſe, becauſe it is ſo deep.</l>
+               <l>I pray ſit down, and plod on what you have read:</l>
+               <l>And learn with your Nails to ſcratch a wiſer Head.</l>
+               <l>For my Good Name may live, when yours is dead:</l>
+               <l>Although by your malicious Tongues it's murthered.</l>
+               <l>Then go you Momes: I am ſure it is no ſin</l>
+               <l>To ſay, You look like Aſſes in a Lyons Skin.</l>
+            </q>
+            <p>Perhaps ſome of theſe Fops will be apt to ſay, I am no Scholar; and therefore will reaſon with<g ref="char:EOLhyphen"/>in themſelves, and ſay, We know his Educati<g ref="char:EOLhyphen"/>on and bringing up; and therefore, how ſhould he u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>derſtand theſe Things, <hi>&amp;c?</hi>
+            </p>
+            <p>All ſuch I anſwer with theſe following Words of the Learned <hi>Carden;</hi> Ate &amp; a Scientia, &amp;c. <hi>It's from thy Self, and Science or Learn<g ref="char:EOLhyphen"/>ing, and from no Man's Teaching,</hi> &amp;c. as we read in Holy Writ; <hi>On whom I will have Mercy, I will have Mercy, ſaith the</hi> Lord. Therefore, ſince it is the <hi>Lord's</hi> Mercy and Goodneſs towards me, I am bound to render Praiſe unto Him, for his great Goodneſs, and loving Kindneſs towards me at all times. And thus much from him, who is</p>
+            <closer>
+               <signed>
+                  <hi>A True and Loyal Subject to the King, and a Lover of his Country, <hi>Richard Kirby.</hi>
+                  </hi>
+               </signed>
+               <dateline>Fulham, <date>Auguſt <hi>the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0th. 1683.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="predictions">
+            <pb n="7" facs="tcp:31902:4"/>
+            <head>Aſtrological Judgments on the Year, <hi>1684.</hi> beginning <hi>March</hi> the 9th. one Hour fifty ſeven minutes paſt Noon; at which time the <hi>Sun</hi> touches the firſt Scruple, or Point of that Equinoctial ſign <hi>Aries,</hi> the Aſcendant of <hi>Great Britain,</hi> &amp;c.</head>
+            <figure>
+               <p>
+                  <hi>March</hi> the 9th. 1684. one Hour 57 Min. paſt Noon.</p>
+               <p>Lat. 51 deg. 32 min. <hi>Londini.</hi>
+               </p>
+            </figure>
+            <q>
+               <p>
+                  <hi>Prudentis eſt multa Diſſimulare:</hi>
+               </p>
+               <p>It is a Wiſe Mans part, not to take notice of many things.</p>
+            </q>
+            <pb n="8" facs="tcp:31902:5"/>
+            <p>THE Angles of this Figure are all fix<g ref="char:EOLhyphen"/>ed, and <hi>Saturn</hi> is in the Aſcendant, and there Retrograde with that notable fix<g ref="char:EOLhyphen"/>ed Star, <hi>viz.</hi> Cor Leonis.</p>
+            <p>
+               <hi>Attendes in Revolutionibus annorum Mundi, ſi fuerit,</hi> Saturn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>in ſigno fixo, quo niam ha<g ref="char:EOLhyphen"/>bet tunc ſignificare Mortali<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atem, &amp; terrae Naſ<g ref="char:EOLhyphen"/>centium penurium at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Diminutionem: ſed in</hi> Leone <hi>fortius at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> durius, &amp; durabilius quam in aliis.</hi>
+            </p>
+            <p>Mark: If in Revolutions of the Years of the World, <hi>Saturn</hi> be found in a fixed Sign; for that then he ſignifies Mortality, Penury, and Dimunition of things growing in and upon the Earch: But if in <hi>Leo,</hi> more ſtrongly and hardly, and of longer conti<g ref="char:EOLhyphen"/>nuance, than in other Signs.</p>
+            <p>
+               <hi>Si fuerit ejus Latitudo Septentrionalis ſigni<g ref="char:EOLhyphen"/>ficat, corruptionem Aeris, &amp; ejus groſſitudinem ac tenebraſitatem in temporibus debitis accon<g ref="char:EOLhyphen"/>ſuetis plus ſolito.</hi>
+            </p>
+            <p>If his Latitude ſhall be North, he bodes Corruption of the Air, thickneſs and dark<g ref="char:EOLhyphen"/>neſs thereof, at due and accuſtomed Times, more than uſual.</p>
+            <pb n="9" facs="tcp:31902:5"/>
+            <p>
+               <hi>Si fuerit Occidentalis, Peſtilentias quae ve<g ref="char:EOLhyphen"/>nient in terrae Mortalitaten.</hi>
+            </p>
+            <p>If Occidental, Peſtilential Diſeaſes and Mortality to inſue in the Land.</p>
+            <p>
+               <hi>Si Retrogradus gravitates venturas ex acci<g ref="char:EOLhyphen"/>dentibus quae venient hominibus, &amp; quod pro<g ref="char:EOLhyphen"/>longabuntur, &amp; erunt durabiles.</hi>
+            </p>
+            <p>If Retrograde, great heavineſs proced<g ref="char:EOLhyphen"/>ing from Accidents that ſhall befall Men, and that the ſame be prolonged, and du<g ref="char:EOLhyphen"/>rable, <hi>&amp;c.</hi>
+            </p>
+            <p>And becauſe <hi>Saturn</hi> applies to a Trine of <hi>Mars,</hi> by his Retrograde Motion, who is poſited in the 9th. near the Body of <hi>Venus,</hi> who rules the Mid-heaven: Therefore, I judge his Holineſs feels himſelf begin to decline; yea, both he and his whole Do<g ref="char:EOLhyphen"/>minions: For <hi>Saturn's</hi> long Tranſit through the Sign <hi>Leb,</hi> beſides his Tripple Conjun<g ref="char:EOLhyphen"/>ction with <hi>Jupiter</hi> in the ſame, makes Him, and moſt of the <hi>Italian</hi> Princes, begin to look about them; and they find it the beſt of their Play, to make Friends with their Neighbour Nations; as <hi>England, France, Germany, Polonia, Denmark, Paleſtine, Naples, Syria, Burgundy,</hi> and many more Places, which are under the Sign <hi>Aries,</hi> as may be ſeen by <hi>Saturn</hi>'s Application to the Trine
+<pb n="10" facs="tcp:31902:6"/>of <hi>Mars,</hi> in the foregoing Scheme. But all this will not do; for <hi>Saturn</hi>'s Continuance almoſt Three Years in that Kingly Sign <hi>Leo,</hi> will ſhew is dire Effects to thoſe Places under that Conſtellation, and its oppoſite Sign <hi>Aquarius.</hi> Therefore, <hi>Turky, Italy,</hi> and <hi>Rome,</hi> I forewarn you to prepare your ſelves to entertain Showers of Judgment: for as you have taken delight in ſpilling of Blood, ſo ere long you may live to drink it, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Mars</hi> is Lord of the Year, by reaſon he ſurmounts all the reſt of the Planets in Dig<g ref="char:EOLhyphen"/>nity, as having moſt Teſtimonies of <hi>ſtrength.</hi> Wherein we have great cauſe to fear much Thunder and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ightning, burning of Hou<g ref="char:EOLhyphen"/>ſes, and the like. For <hi>Carden</hi> ſaith, If <hi>Mars</hi> be Lord of the Year, and poſited in a Fiery Sign, great Heat follows, burning of Hou<g ref="char:EOLhyphen"/>ſes, with great Lightnings and Wars: And if <hi>Mars</hi> be Occidental, and have Meridinal Latitude, (ſaith a Learned Author) many Fears and Troubles ſhall fall upon Men; as alſo, Diſcords and Comentions, with Thunder and Lightnings: And yet becauſe <hi>Mars</hi> is Powerful and Strong, and free from Affliction, he portends much Felicity and Proſperity to all Martial Perſons in general. Soldiers will now be very ſucceſsful, and
+<pb n="11" facs="tcp:31902:6"/>perform many notable Exploits, and over<g ref="char:EOLhyphen"/>come their Enemies, and gain good Eſteem and Honour thereby, and that in thoſe Countries ſubject to the Sign <hi>Aries;</hi> per<g ref="char:EOLhyphen"/>haps in <hi>Germany, France, Burgundy,</hi> and ſome other Countries not far remote, <hi>&amp;c.</hi> But by reaſon <hi>Mars</hi> is poſited in the 9th. he ſhews danger in travelling both by Sea and Land, as ſudden Ship wracks, occaſioned by ſeve<g ref="char:EOLhyphen"/>ral Storms and Tempeſts: He alſo denotes Plundering of Ships by Piracy; and that the Men ſhould be taken Captives; and thoſe which adventure to the <hi>Eaſt-Indies;</hi> being <hi>Mars</hi> is in <hi>Aries,</hi> an Eaſterly Sign: <hi>Mars</hi> was in <hi>Aries</hi> at the <hi>Sun</hi>'s Ingreſs into <hi>Aries,</hi> 1682. What a prodigious Fire did there break out in <hi>Wappen</hi> ſuddenly after? But, I hope, no ſuch thing this Year; for <hi>Venus,</hi> and the <hi>Sun</hi> beautifies the 9th. Houſe, as much as <hi>Mars</hi> deforms it; and, I hope, tyes the Sword of <hi>Mars</hi> from doing much Damage, although he be powerful, and ſtrong. But <hi>Venus,</hi> and the <hi>Sun,</hi> in the 9th. ſhews, that Men of Religious Orders ſhould flight and remove from one Houſe and Place to another: And, I think, this Judgment may very well be confirmed by the Poſiti<g ref="char:EOLhyphen"/>on of that violent <hi>Mars</hi> who is naturally an
+<pb n="12" facs="tcp:31902:7"/>Enemy to all Religion, and Religious Per<g ref="char:EOLhyphen"/>ſons. In fine, I ſhall conclude, that many Controverſies will ariſe in, by, from, and through the Pretence of Religion, and Re<g ref="char:EOLhyphen"/>ligious Matters: And this the more certain, becauſe <hi>Jupiter,</hi> who is the Natural Signi<g ref="char:EOLhyphen"/>ficator thereof, is poſited in <hi>Virgo,</hi> the Place of his Detriment, and there Retrograde: And becauſe <hi>Mercury</hi> haſtens to an Oppo<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of <hi>Jupiter,</hi> we may expect to find many underhand and pernicious Tranſacti<g ref="char:EOLhyphen"/>ons agitated by the ſeveral Agents, Meſ<g ref="char:EOLhyphen"/>ſengers or Ambaſſadors of <hi>Europe,</hi> &amp;c. <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> in <hi>Domus Mortis,</hi> ſhews, that many Per<g ref="char:EOLhyphen"/>ſons ſhould ſuffer Loſs in their Writings, or for want of Evidences, unhappily loſt, or caſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally deſtroyed; and conſequently, ma<g ref="char:EOLhyphen"/>ny Controverſies and Law-ſuits fomented, and ſtirred up; by which means many Fa<g ref="char:EOLhyphen"/>therleſs Children and Widdows may be wronged of their proper Rights; and that not only by Law, but by Bankrupts alſo, <hi>&amp;c. Mercury</hi> is alſo the General Significa<g ref="char:EOLhyphen"/>tor of Youth, or Perſons of tender Years: Therefore it is an Argument of Mortality amongſt the young and tender Branches, <hi>viz.</hi> Young Men, Maids, and Children, <hi>&amp;c.</hi>
+            </p>
+            <p>Now we come to conſider the Poſitions
+<pb n="13" facs="tcp:31902:7"/>of the <hi>Moon,</hi> who is the general Significa<g ref="char:EOLhyphen"/>tor of the Common People: Her She is poſited in the Mid-heaven, in her Exaca<g ref="char:EOLhyphen"/>tion; and no ways impedi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, but in Sex<g ref="char:EOLhyphen"/>til of <hi>Mercury,</hi> and applying to a Trine of <hi>Jupiter.</hi> Therefore, I judge, much of this Evil impending, will be abated: For the Antients tell us, That if the <hi>Moon</hi> be in the 10th. in her Exaltation, and no ways afflicted in that Year, the People ſhall be in a good and Proſperous Condition; ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e belo<g ref="char:EOLhyphen"/>ved and honoured by their King and Sape<g ref="char:EOLhyphen"/>riors; and that they ſhall be very Fort<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e and Happy, during the evolution. But I muſt tell you, by the way, That <hi>Canda</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Sixth, and <hi>Saturn,</hi> Lord thereof, in the Aſcendant, doth fore ſhew ſtrange and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>wholſom Air; which may cauſe many pro<g ref="char:EOLhyphen"/>digious Diſeaſes both to Man and Beaſt<g ref="char:punc">▪</g> as violent Afflictions at the Heart, weak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs in the Knees, pains in the Back, Melancholly, Fears, and Grief, a Decay or Conſum <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on in the Reins, and inward Parts; Corruption of the Blood, Black Jaundice, Palſie, Vain Fears, Gouts of all ſorts, and many ſtrange unheard of Diſeaſes and Diſtempers: I wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h no Plague, <hi>&amp;c.</hi> Neither ſhall we be free from many open Enemies ſtriving to oppoſe
+<pb n="14" facs="tcp:31902:8"/>and diſturb the Government, becauſe <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> is Lord of the Seventh: But let them know, that their Fate is ſo hard, that they will not be ſo happy as to accompliſh their Deſigns, &amp;c.</p>
+            <q>
+               <p>
+                  <hi>Agentes &amp; Conſentientes pari poenâ puniuntur:</hi>
+               </p>
+               <p>The Doers &amp; Conſenters are puniſhed alike.</p>
+            </q>
+            <p>In the next place, I ſhall give you an ac<g ref="char:EOLhyphen"/>count of the Luminaries Eclipſed this Year; four times will the Heavenly Lamps be deprived of their glorious Light, viz. twice the <hi>Sun,</hi> and as often the <hi>Moon:</hi> The firſt will be an Eclipſe of the <hi>Sun,</hi> which falls on the ſixth Day of <hi>January,</hi> about ſix at Night Inviſible: It falls in the laſt Face of <hi>Capricorn:</hi> It denotes Famine, and the tu<g ref="char:EOLhyphen"/>multuary Motions of Princes. The Second Eclipſe is of the <hi>Moon;</hi> and it falls on the 17th. Day of <hi>June,</hi> at three of the Clock in the Morning, in the firſt Face of <hi>Capricorn,</hi> and Viſible. This denotes Suggeſtions among Men, and untimely Death or Miſ<g ref="char:EOLhyphen"/>chief to ſome Illuſtrious and Noble Man. The Third will be an Eclipſe of the <hi>Sun,</hi> on <hi>July</hi> the Second, about Three of the Clock Afternoon, Viſible to us in <hi>England,</hi> and al<g ref="char:EOLhyphen"/>moſt Total; for above two Thirds of the
+<pb n="15" facs="tcp:31902:8"/>
+               <hi>Sun</hi>'s Body will be darkned from our Sight. It falls in the laſt Face of <hi>Cancer,</hi> and is made in the 9th. Angle: This denotes Se<g ref="char:EOLhyphen"/>ditions, Hydropical Diſeaſes, and cauſeth Peſtilent and Grievous Mortalities; alſo, Winds and Alterations of Weather, which much troubles the Air; it al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o drieth up Rivers and Fountains: Likewiſe, it denotes the Death of ſome Great Perſon or Ruler, with thundering Noiſes and Uproars in and about Religion, <hi>&amp;c.</hi> But for the general Judgment, ſee my Treatiſe of the Con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<g ref="char:EOLhyphen"/>ction of <hi>Saturn</hi> and <hi>Jupiter.</hi> The Fourth and laſt Defect, is of the <hi>Moon,</hi> and falls on the 11th. Day of <hi>December,</hi> at Eleven at Night, Viſible, and very great: It happens in the firſt Face of <hi>Cancer.</hi> This cauſeth Wars and Inundations, or Over-flowing of the Sea-Banks; and that in <hi>Holland, Scotland, Bur<g ref="char:EOLhyphen"/>gundy, Saxony, Granado, Zeland, P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſia, Haſia, Macedonia,</hi> and many more Places, which are under the Signs <hi>Cancer</hi> and <hi>Capricorn,</hi> which are too tedious for me here to relate; but you may find them written in Mr. <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ley</hi>'s <hi>Clavis Aſtrologia,</hi> Pag. 91, 92.</p>
+            <p>The great Defect of the <hi>Sun,</hi> happens <hi>July</hi> the ſecond, 2 Hours, 40 Minutes af<g ref="char:EOLhyphen"/>ternoon, at which time the laſt degree of
+<pb n="16" facs="tcp:31902:9"/>
+               <hi>Leo</hi> culminates, and 13 Degrees of <hi>Scorpion</hi> aſcends; the Eclipſe it ſelf is made in the 9th Houſe, <hi>Mars</hi> and <hi>Mercury</hi> are ſole Ru<g ref="char:EOLhyphen"/>lers thereof. <hi>Mars</hi> is ſtronger than <hi>Mercury</hi> by odds.</p>
+            <p>
+               <hi>Mars</hi> being Lord of the Eclipſe, cor<g ref="char:EOLhyphen"/>rupts the Air by Heat, breeds Peſtilential Diſeaſes, ſpoils the Fruits of the Earth, and diſturbs the Sea by violent Winds and Shipwracks: and <hi>Albumazar</hi> ſaith, That if <hi>Mercury</hi> be joyned with <hi>Mars</hi> in ſignificati<g ref="char:EOLhyphen"/>on, it ſignifies Peſtilences, and other Epi<g ref="char:EOLhyphen"/>demical Diſeaſes by corruption of Blood. <hi>Mercury</hi> is here very unluckily tyed to the body of <hi>Mars,</hi> both of them being in our Summer <hi>Solſtice</hi> a watry Sign, and the 9th. Houſe of Heaven; which ſignifies terrible, haſty, furious Doings, violent, tempeſtuous, deſtructive, vehement Winds; the Sea will be ſo dangerous, Men can ſcarce paſs it by reaſon of Shipwrack and Pyracy: And this is the more confirmed, becauſe <hi>Mars</hi> is in ſquare to his place in the Revolution, where he was in the 9th. Houſe, as here he is now. If ſuch things are likely to happen upon the Sea, judge you what the Land is like to ſuffer, when a couple of ſuch thieving Pla<g ref="char:EOLhyphen"/>nets are Lords of an Eclipſe. Beſides all this,
+<pb n="17" facs="tcp:31902:9"/>the Earth ſuffers by Thunder &amp; Lightning, vehement and violent Storms; alſo Inun<g ref="char:EOLhyphen"/>dations, or Over-flowing of the Sea-Banks; It inclines Men to the taking of ſuch things, as is none of their own, <hi>&amp;c.</hi> to pillaging, plundering, &amp; ſeizing on Malignants Goods. It alſo inclines Men to Rapine, Theft, Ly<g ref="char:EOLhyphen"/>ing, Depopulation: It likewiſe procures a Rottenneſs, or Corruption in the Fruits, when they are gathered; occaſioning Sur<g ref="char:EOLhyphen"/>feits and Sickneſſes to ſuch as eat them; as Hydropical Diſeaſes, which may cauſe pe<g ref="char:EOLhyphen"/>tulant and grievous Mortalities: It likewiſe fore-ſhews the Diſeaſes of <hi>France, Naples, Spain, England,</hi> and indeed all the World Let them as are inclined to Venery, have a care. Again, it fore ſhews Sea-fights, long and dangerous Navigations, with much Loſs to the generous and induſtrious Mer<g ref="char:EOLhyphen"/>chants; and thundering Noiſes and Up<g ref="char:EOLhyphen"/>roars about Religion, as well at home as a<g ref="char:EOLhyphen"/>broad, and that by all ſorts of People, from the higheſt to the loweſt Degree; for ſo many Planets in the 9th. Houſe, in Conjun<g ref="char:EOLhyphen"/>ction in <hi>Cancer,</hi> and all in Sextil to <hi>Jupiter,</hi> who is Exalted therein, can intimate no leſs than great and fierce Diſputes about Reli<g ref="char:EOLhyphen"/>gion, and Religious Matters; Nay, the
+<pb n="18" facs="tcp:31902:10"/>whole Body of Truth ſeems to be rent and torn aſunder, and the ſeveral Limbs of it in ſmall Iota's, and diminutive Parcels, are ſcattered up and down (as it were) upon the Face of the whole Earth; each Party, and Sect of Profeſſors, graſping at ſome ſmall Portion and Seed of Truth; and covering it under various Mixtures of their own, which many times do ſteal away the Heart from the Contemplation of Truth it ſelf: moſt People eying only the Building which doth appear, and neglecting the Founda<g ref="char:EOLhyphen"/>tion which lies under Ground. But when the <hi>Almighty,</hi> by the Chymiſtry of his Spi<g ref="char:EOLhyphen"/>rit, ſhall gather up the Fragments of Truth from every the ſeveral Profeſſions, (where it now lies ſcattered and divided, as afore<g ref="char:EOLhyphen"/>ſaid) into one entire Body and Lump, How Beautiful will it then appear, whil'ſt eve<g ref="char:EOLhyphen"/>ry Party ſhall ſee its Hay and Stubble burnt up before their Eyes; and their Gold (whe<g ref="char:EOLhyphen"/>ther little or much) purified, and added to the whole Maſs; and themſelves by this means no longer placing their Unity in out<g ref="char:EOLhyphen"/>ward Rites and Obſervations, but being u<g ref="char:EOLhyphen"/>nited and reconciled in the Common Unity of the ſame Spirit, <hi>&amp;c?</hi>
+            </p>
+            <p>Therefore I hope now, the True <hi>Proteſtant
+<pb n="19" facs="tcp:31902:10"/>Divine</hi> will begin to weed out thoſe Apoſtate Counterfeits amongſt us, and diſperſe them to ſeveral Parts of the World: though it is impoſſible to lade the Sea dry; for ſome will remain ſtill, and ſwear outward Con<g ref="char:EOLhyphen"/>formity, <hi>&amp;c.</hi>
+            </p>
+            <p>Places ſubject to the Effects of this E<g ref="char:EOLhyphen"/>clipſe, are <hi>Scotland, Granado, Burgundy, Hol<g ref="char:EOLhyphen"/>land, Zeland, Pruſia, Numidia, Africa, Bethi<g ref="char:EOLhyphen"/>nia, Calchis, Carthage, Canſtantinople, Tunis, Venis, Genoa, Lucaſpiſa, Millain, Vincentia, Berne, England, France, Germany, Denmark, Auſtria, Alſatia, Livonia, York,</hi> St. <hi>Andrew</hi>'s in <hi>Scotland, Lubeck, Magdeburg, Whittenburg, Gerlick, Macedonia, Illyria, Thracia, Boſinia, Albania, Oxford. Gaunt, India,</hi> &amp;c.</p>
+            <trailer>So much from the great Eye of Heaven.</trailer>
+         </div>
+         <div type="predictions">
+            <div n="January" type="month">
+               <pb n="20" facs="tcp:31902:11"/>
+               <head>Prognoſtications on JANUARY.</head>
+               <q>
+                  <p>
+                     <hi>Inconſulti facile ruunt.:</hi>
+                  </p>
+                  <p>Unadviſed Men quickly fall to ruine.</p>
+               </q>
+               <p>THE Year is uſhered in with a Trine of <hi>Jupiter,</hi> and the <hi>Sun;</hi> but ſoon after we have an Op<g ref="char:EOLhyphen"/>poſition between thoſe Malefacts, <hi>viz. Saturn</hi> and <hi>Mars:</hi> alſo an Eclipſe of the <hi>Sun</hi> in <hi>Capricorn.</hi> Therefore I conceive, and that upon good grounds, this Month will produce many grand Conſultati<g ref="char:EOLhyphen"/>ons, hot Diſputes betwixt the Souldiers and ſome Perſons very Eminent, and Famous (or rather In<g ref="char:EOLhyphen"/>famous) Men, (I mean) that have long been load<g ref="char:EOLhyphen"/>ed with Authority, but are now about to be eaſed of their Burthens: For ſome muſt expect to pay for their former Roguery; for the Heavens are to Juſtice bent: For we have no leſs than four Op<g ref="char:EOLhyphen"/>poſitions this Month; and oppoſite Aſpects will have oppoſite Effects. If <hi>God</hi> divert not the Courſe of Nature, by his Merciful Providence, in or near this Month, moſt ſtrange and wonderful Cataſtro<g ref="char:EOLhyphen"/>phes will appear: Where Armies are near, great Slaughters of Men will be; where prepared Na<g ref="char:EOLhyphen"/>val Forces are, there will be great Deſtruction of Men and Ships; where Towns or Cities are be<g ref="char:EOLhyphen"/>leaguered, there will appear and actually be great Effuſion of Blood in ſeveral Parts beyond the Seas, in thoſe Countries ſubject to the Signs <hi>Virgo</hi> and <hi>Piſces;</hi> alſo much Heart-grudging betwixt the Martialiſt, and the Gown-Man; and in all proba<g ref="char:EOLhyphen"/>bility; ſome Men found guilty of what is laid to their Charge: Alſo, unwelcom Intelligence to the
+<pb n="21" facs="tcp:31902:11"/>generous and induſtrious Merchants of this King<g ref="char:EOLhyphen"/>dom, <hi>&amp;c. Dubius rerus event us.</hi>
+               </p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>Very hard Froſts at the Beginning hereof; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſoon alters, and turns to Snow or Rain, with high Winds till about the Nineth Day; then expect in more Calm: yet very ſharp and pinching Froſts a<g ref="char:EOLhyphen"/>bout the Eirſt Quarter, till about the Twenty-third Day; then expect it to be very bluſtering for ſome<g ref="char:EOLhyphen"/>time,</hi> viz. <hi>for ſix or ſeven Days; after which, it proves more calm to the Months End; but ſufficient<g ref="char:EOLhyphen"/>ly Cold and Froſty.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="February" type="month">
+               <head>Prognoſtications on FEBRUARY.</head>
+               <q>
+                  <p>
+                     <hi>Si Deus nobiſcum quis contra nos:</hi>
+                  </p>
+                  <p>If <hi>God</hi> be for us, who can be againſt us?</p>
+               </q>
+               <p>I Might have very properly diſcourſed of the Op<g ref="char:EOLhyphen"/>poſitions of <hi>Jupiter, Mars, Saturn,</hi> and <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> in <hi>January</hi>'s Prognoſtications; but for ſome Reaſons occurring to me in the Manuſcript, I thought it might not be altogether impertinent, to inſert them where they are: and they manifeſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>to us Superlative Actions upon the Stage, and old Matters ſeem to be called in queſtion: Infor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ti<g ref="char:EOLhyphen"/>ons, Impeachments, Accuſations; and <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</hi> thoſe that ſhall be found Guilty of Treaſon, muſt expect conſiderable Puniſhment, <hi>viz.</hi> Impriſon<g ref="char:EOLhyphen"/>ment, or Loſs of Eſtate; nay, perhaps, Loſs of Life alſo. But moſt of theſe Actions ſhould appear beyond Sea, or in ſome Countries not far <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from <hi>England.</hi> Sudden Hopes, and we fear as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:31902:12"/>Alterations; for this Month is attended with variety of Configurations of the Planets, whoſe In<g ref="char:EOLhyphen"/>fluences and Operations may very well merit our Obſervations. The Oppoſition of <hi>Venus,</hi> and <hi>Jupi<g ref="char:EOLhyphen"/>ter,</hi> and <hi>Saturn,</hi> and the <hi>Sun,</hi> at the beginning here<g ref="char:EOLhyphen"/>of, doth preſage ſtrange Overtures in the Actions of Men, in ſeveral Countries abroad, as well as a<g ref="char:EOLhyphen"/>mongſt our ſelves at home. Great Animoſities in the Courts of Princes. Many diſcontented Spirits appear, diſturbing the Magiſtracy of Kingdoms and Nations. Many loſes their Offices or Imploy<g ref="char:EOLhyphen"/>ments; and ſome Woman found guilty of Incon<g ref="char:EOLhyphen"/>ſtancy: And the Oppoſition of the <hi>Sun</hi> and <hi>Jupiter</hi> menaces ſome grave Magiſtrates, or Clergy-Men amongſt us, (whether Biſhops, or by any other Titles diſtinquiſhed) with ſome very unhappy Ca<g ref="char:EOLhyphen"/>ſualty or Diſaſter; it may be, Death it ſelf. In fine, the Month produces nothing, or very little of Good, but Contention amongſt Grandees; with whole ſwarms of high ranting Pamphlets and Li<g ref="char:EOLhyphen"/>bels thrown about, diſperſing the Seed of Treaſon. In This, and the next Month, <hi>Mars</hi> is in the Sign <hi>Aries;</hi> which cauſeth violent Pains in the Heads of People, inſomuch that they are like to go ſtank mad; but for what, they know not.</p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>Fine moderate Weather at the beginning of this Month, and may continue till about the 7th. or 8th. Day: then expect high bluſtring Winds with Rain, and much of it for four or five days; and then ap<g ref="char:EOLhyphen"/>pears more calm, till about the 20th. day: After which we may expect very notable Weather,</hi> viz. <hi>both Wind and Rain, if not Snow; and ſo continues more
+<pb n="23" facs="tcp:31902:12"/>or leſs to the Months end: For oppoſite Aſpect pre<g ref="char:EOLhyphen"/>ſage no leſs, than u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſeaſonable Weather; becauſe of the ſeveral</hi> Apertio Partarums <hi>in this Month. I hope, no Flood,</hi> &amp;c.</p>
+               </div>
+            </div>
+            <div n="March" type="month">
+               <head>Prognoſtications on MARCH.</head>
+               <q>
+                  <p>Exurgat Deus, &amp; deſſipentur Inimici:</p>
+                  <p>
+                     <hi>Let</hi> God <hi>ariſe, and his Enemies ſhall be ſcattered.</hi>
+                  </p>
+               </q>
+               <p>THE Configurations of the Planets, are for the moſt part Benevolent this Month; and the Malevolent Oppoſitions of the Planets in the Laſt, may influence notable Effects in This, and Thoſe which follow: For in many places Men are in fear of Danger approaching; but notwithſtand<g ref="char:EOLhyphen"/>ing, we have great hopes, there is but little grounds for ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Jealouſies or Suſpicions. Very notable things may now be had in Conſultation, in <hi>Eng<g ref="char:EOLhyphen"/>land, France, Germany, Polonia,</hi> and <hi>Burgundy.</hi> The Emperour of <hi>Germany</hi> ſeems very active, and is no leſs ſucceſsful; and is very vigilant, in pre<g ref="char:EOLhyphen"/>venting many Inconveniences he apprehends may fall upon ſome of his Empires, through and by the means of the <hi>Turks.</hi> A great Part of this Month is ſpent in Counſels, and moſt Judicious Contri<g ref="char:EOLhyphen"/>vances, vigorouſly managed; ſtill tending to the Reconciliation of Differences yet depending; and moſt Perſons principally concerned, being almoſt wearied out with long Expectations, ſeem willing to agree with any reaſonable Propoſals. <hi>Saturn</hi> is now Retrograde in <hi>Leo.</hi> The <hi>Turkiſh</hi> Emperour may have cauſe to look about him; ſo may the
+<pb n="24" facs="tcp:31902:13"/>
+                  <hi>Pope of Rome</hi> alſo. The Souldiers will be apt to re<g ref="char:EOLhyphen"/>bel in ſome Countries under the Influence of <hi>Aries,</hi> perhaps in <hi>France,</hi> or ſome Countries not far ad<g ref="char:EOLhyphen"/>jacent from them. The Oppoſition of <hi>Mercury</hi> and <hi>Jupiter</hi> from <hi>Virgo</hi> and <hi>Piſces,</hi> ſhews ſome Scrib<g ref="char:EOLhyphen"/>bling Author ſhould be brought upon the Stage, for abuſing Authority. <hi>Mars</hi> in the Sign <hi>Aries</hi> be<g ref="char:EOLhyphen"/>ing War-like, adds Courage to the undaunted Na<g ref="char:EOLhyphen"/>tives of <hi>England:</hi> and becauſe we have a <hi>Sextile</hi> and <hi>Trine</hi> between <hi>Venue, Mercury,</hi> and <hi>Jupiter,</hi> I judge happy Returns to the generous and indu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions Merchants of this Kingdom: alſo very hope<g ref="char:EOLhyphen"/>ful Intelligence from the Land of <hi>Ireland;</hi> and ſome Perſon belonging to the Long Robe, as high<g ref="char:EOLhyphen"/>ly advanced. And to conclude, the Month ends with hopeful Intelligence, by the Arrival of ſome Ambaſſador. <hi>Tempus omina Reulat.</hi>
+               </p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>Moderate at the Beginning hereof, till about the third Day; then expect flying Clouds, with fine brisk Galas of Wind, and Rain, or Hail at the New Moon; But</hi> March <hi>doth not intend to play his part, till about the</hi> 22 <hi>or</hi> 23 <hi>Day; then expect both Wind and Rain, and that plentifully too. After which it becomes very pleaſant, and ſo continues unto the end, without much Alteration.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="April" type="month">
+               <head>Prognoſtications on APRIL.</head>
+               <q>
+                  <p>
+                     <hi>Quod capita, tot ſenſus:</hi>
+                  </p>
+                  <p>So many Men, ſo many minds, or ſo many opinions.</p>
+               </q>
+               <p>THE Configurations of the Planets this Month are many; from whence we may expect ma<g ref="char:EOLhyphen"/>ny
+<pb n="25" facs="tcp:31902:13"/>Diſputes and Controverſies to ariſe, and that chiefly from the Quartile of <hi>Saturn</hi> and <hi>Mars:</hi> for they by their evil Influence, will put forward many raſh Actions, and ſet ſeveral hot-headed Perſons a madding. <hi>Mars</hi> is in <hi>Taurus,</hi> the Aſcendant of <hi>Ireland;</hi> I hope, no Rebellion there. Likewiſe, <hi>God</hi> preſerve us from all Contagious Diſtempers, which at this time we may have juſt cauſe to fear. At the begining hereof, we have a Quartil of <hi>Saturn</hi> and <hi>Venus,</hi> which doth inform us of the great In<g ref="char:EOLhyphen"/>diſpoſition of ſome Eminent Lady, that doth labour under ſome deep Melancholly, and diſcontent of Mind; which may bring her Body to the Grave, and will be much lamented by moſt of her Friends and Relations. To conclude, the moſt part of this Month will be taken up with ſober and deliberate Counſels, tending to the healing of Breaches, and compoſing of Differences to good Purpoſe. Many worthy and deſerving Perſons very highly advan<g ref="char:EOLhyphen"/>ced, as well the Gown-Man as the Martialiſt; and this Work is proſecuted very effectually, to the ho<g ref="char:EOLhyphen"/>nour of thoſe Noble <hi>Hero</hi>'s, that appear more than ordinary active.</p>
+               <p>
+                  <hi>Beatiſſimus civit as, quae a Saplentibus Regitur.</hi>
+               </p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>Now we may expect to ſee the Old Proverb made good; for</hi> March <hi>borrows three days of</hi> April, <hi>and they are ill; but quickly becomes very pleaſant, with a ſhew of fine, pleaſant, ſpreading, white Clouds, till about the 15th. or 16th. day; then expect fine mo<g ref="char:EOLhyphen"/>derate Showers of Rain or Hail; and about the 25th. day, expect Thunder and Lightning, and very plea<g ref="char:EOLhyphen"/>ſant to the end of the Month.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="May" type="month">
+               <pb n="26" facs="tcp:31902:14"/>
+               <head>Prognoſtications on MAY.</head>
+               <q>
+                  <p>
+                     <hi>Ubi Dolor, ibi Digitus:</hi>
+                  </p>
+                  <p>Where the Pain is, there the Finger is.</p>
+               </q>
+               <p>MAny are the Configurations of the Superior Bodies, in this Month of <hi>May. Mars,</hi> the <hi>Sun,</hi> and <hi>Mercury,</hi> do all paſs through the Sign <hi>Gemini;</hi> and we have no leſs than five Quadrate Aſpects between <hi>Saturn, Jupiter, Mars,</hi> the <hi>Sun,</hi> and <hi>Mercury:</hi> I wiſh, it portends no unhappy Ca<g ref="char:EOLhyphen"/>ſualty unto the worthy Inhabitants of the City of <hi>London,</hi> either by the Heats of Paſſion, or the pri<g ref="char:EOLhyphen"/>vate Intereſts of a Malicious Crew of Raſcals, who pretend Religion and Conſcience; and yet neither fears <hi>God,</hi> nor honours their King. The Square of <hi>Jupiter</hi> and <hi>Mars,</hi> ſeems to aggravate the Dan<g ref="char:EOLhyphen"/>ger; and ſhews, that here are too many amongſt us, who do condemn the Worthy and Honourable Clergy; as may be ſeen by the Square of <hi>Mercury, Mars,</hi> and the <hi>Sun,</hi> to <hi>Jupiter. God</hi> preſerve our Worthy and Famous City of <hi>London,</hi> with her nu<g ref="char:EOLhyphen"/>merous Inhabitants, from Fire, Plague, Peſtilence, and other Calamities: For ſome Prudential People of <hi>London,</hi> fear an approaching general Diſeaſe a<g ref="char:EOLhyphen"/>mongſt us; and others find Moleſtation by tedious and troubleſome Law-ſuits, which too many de<g ref="char:EOLhyphen"/>light in. Alſo, many Difficulties ariſe in the Coun<g ref="char:EOLhyphen"/>cils of Nations; and many Perſons are ſummon'd into the other World by Death, who is the King of Terrours. Therefore, hot Diſputes between <hi>France</hi> and <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain,</hi> if I miſtake not. <hi>Mors eſt inevitabilis.</hi>
+               </p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> near to he very unſeaſonable;
+<pb n="27" facs="tcp:31902:14"/>for ſo many Malevolent Aſpects of the Planets from Earthly Signs, doth promiſe very cold Mornings, with ſharp Froſts; which will be very unwelcome to the Husbvndman: alſo, they promiſe Hail, Rain, and Wind, till about the 25th. day; but afterwards be<g ref="char:EOLhyphen"/>comes very pleaſant, and ſo laſts to the Months End.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="June" type="month">
+               <head>Prognoſtications one JUNE.</head>
+               <q>
+                  <p>
+                     <hi>Mala herba non perit:</hi>
+                  </p>
+                  <p>An evil Weed dyeth not.</p>
+               </q>
+               <p>THis Month the two Malefacts, <hi>viz. Saturn</hi> and <hi>Mars,</hi> changes their Stations; <hi>Mars</hi> paſſes into the Sign <hi>Cancer,</hi> and <hi>Saturn</hi> into <hi>Virgo:</hi> and we have a Viſible Eclipſe of the <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi> alſo, on the 17th. Day in <hi>Capricorn,</hi> near to an Oppoſition of <hi>Mars.</hi> Now the Antients tells us, That Eclipſes in <hi>Capricorn</hi> are the Fore-runners of Sterillity of the Earth, and the tumultuary Motions of Princes, and that in thoſe Places under the Signs <hi>Cancer</hi> and <hi>Ca<g ref="char:EOLhyphen"/>pricorn.</hi> It likewiſe ſignifies, that ſome Great and Eminent Perſon ſhall depart this Liſe, in a terrible and deplorable Condition; and that Men ſhall be given to ſlander, and betray one another, and that under the Pretence and Species of Religion; be<g ref="char:EOLhyphen"/>cauſe the Eclipſe is made in the 9th. Houſe of Hea<g ref="char:EOLhyphen"/>ven: and becauſe it is made in the Exaltation of <hi>Mars,</hi> and near his Oppoſition, it will excite Mens Minds to quarrel<g ref="char:punc">▪</g> and new Attempts of War, with Treachery and Sedition. <hi>Holland</hi> be quiet, and meddle not with War; but, <hi>Neceſſity hath no Law. Omne malum naſcens facile opprimitur,</hi> but every E<g ref="char:EOLhyphen"/>vil
+<pb n="28" facs="tcp:31902:15"/>at its firſt coming up, is eaſily ſuppreſſed. <hi>Mars</hi> is now in Conjunction with the <hi>Sun</hi> in <hi>Gemini:</hi> Heavens bleſs an Eminent Worthy of this World from all Dangers; and let the Hand of Providence be ever over the City of <hi>London,</hi> and her numerous Inhabitants; and let <hi>Spain</hi> ſeek out for a good <hi>Phyſician.</hi> Were it not in the Heat of <hi>Summer,</hi> we might expect the Appearance of another <hi>Comet,</hi> be<g ref="char:EOLhyphen"/>cauſe of <hi>Saturn</hi> is leaving the Sign <hi>Leo;</hi> but becauſe it is at this time, I ſhall ſay no more of it; yet ſtrange Apparitions may be, if not Gapings of the Earth, <hi>&amp;c.</hi>
+               </p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>Curious pleaſant and ſeaſonable Weather, at the beginning hereof, and may ſo continue till about the 7th. day; then expect it to be very tempeſtuous,</hi> viz. <hi>both Thunder and Lightning, if not Wind alſo; but afterwards it continues very pleaſant, till</hi> Saturn <hi>and</hi> Mars <hi>change their Stations, and then becomes ſome<g ref="char:EOLhyphen"/>what bluſtering, but continues not long. Expect Rain near the End.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="July" type="month">
+               <head>Prognoſtications on JULY.</head>
+               <q>
+                  <p>Seditioſis nunquam felicites ceſſit:</p>
+                  <p>
+                     <hi>It never went well with Seditious Men.</hi>
+                  </p>
+               </q>
+               <p>NOw the <hi>Jeſuites,</hi> and <hi>Jeſuitical</hi> Tribe ſtretch their Wits, even till they break them, to fight againſt the Decrees of Heaven; for ſo ſaith the late Tribble Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo.</hi> I hope now the <hi>Romiſh</hi> Party will begin to Repent, their being ſo cruel to thoſe innocent and harmleſs
+<pb n="29" facs="tcp:31902:15"/>
+                  <hi>Proteſtants:</hi> Therefore, let them know, that hard is their Fate; for here is a bitter Potion prepared for them. <hi>Saturn</hi> hath now left the Sign <hi>Leo,</hi> the Conjunction will begin to opperate; and to be ſure they will feel its dire Effects. Therefore, if the <hi>Turks</hi> doth enter ſome of their Territories, let them think of me. We have a notable Viſible Eclipſe of the <hi>Sun</hi> in <hi>Cancer,</hi> and <hi>Mars</hi> ſuddenly tranſits the De<g ref="char:EOLhyphen"/>gree thereof; and ſo doth <hi>Mercury</hi> too. The Sol<g ref="char:EOLhyphen"/>dier is all for Plunder in ſome of the <hi>Northern</hi> Coun<g ref="char:EOLhyphen"/>tries, <hi>viz.</hi> in thoſe Countries under <hi>Cancer</hi> and <hi>Ca<g ref="char:EOLhyphen"/>pricorn, Virgo</hi> and <hi>Piſces, Aries</hi> and <hi>Libra:</hi> But we in <hi>England</hi> are in a good and proſperous Con<g ref="char:EOLhyphen"/>dition; <hi>God</hi> continue it: but ſtill plagued with whole ſwarms of Pamphlets and Libels ſtuffing the Ears of People with ſtrange things. To conclude, the Month produceth very notable Conſultations, and that for the general Good. <hi>God</hi> give us Hearts to be thankful. <hi>Jupiter</hi> and <hi>Mars</hi> is now in Sextil. Oh brave Soldier, be of good Chear, the Heavens have allotted a <hi>Pharſalia</hi> for thee; where thou ſhalt not loſe, but gain. To conclude, much Good may be expected this Month; the <hi>Lord</hi> make us fit to receive it! The Sextil of <hi>Mercury</hi> and <hi>Venus,</hi> and <hi>Mercury</hi> and <hi>Jupiter,</hi> promiſe happy and proſpe<g ref="char:EOLhyphen"/>rous Returns of our Merchants Ships.</p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>The fourth day or there abouts, we have a Conjun<g ref="char:EOLhyphen"/>ction of</hi> Mars <hi>and</hi> Mercury <hi>in</hi> Cancer, <hi>which por<g ref="char:EOLhyphen"/>tends both Hail, Rain, and Thunder, and that very conſiderable; but continues not long, but growes tem<g ref="char:EOLhyphen"/>perate, and ſo continues without much Alteration, to the end of the Month: yet we may expect it to be ve<g ref="char:EOLhyphen"/>ry
+<pb n="30" facs="tcp:31902:16"/>hot, if not Thunder-Storms in ſome Places about the</hi> Full Moon.</p>
+               </div>
+            </div>
+            <div n="August" type="month">
+               <head>Prognoſtications on AUGUST.</head>
+               <q>
+                  <p>
+                     <hi>Ubi quis dolet, ibidem &amp; manum habet:</hi>
+                  </p>
+                  <p>Where one feels it ſmart, there he layeth his hand</p>
+               </q>
+               <p>VEry notable <hi>Conſultations</hi> in ſeveral eminent Places of <hi>Europe,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e held this Month, which is attended with no leſs than <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ix Conjunctions of the <hi>Planets;</hi> but what thoſe <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bates</hi> and <hi>Reſoluti<g ref="char:EOLhyphen"/>ons</hi> are, will not be ſuddenly made publick; for they are <hi>Matters</hi> of very high Concernment, and will relate to thoſe <hi>Countries</hi> under <hi>Virgo</hi> and <hi>Piſces,</hi> as <hi>Portugal, Normandy, Greece, Carinthia, Babylon,</hi> the Dukedom of <hi>Athens, Gallia, Lyons, Paris,</hi> and <hi>Baſil.</hi> The Conjunction of the <hi>Sun</hi> with <hi>Saturn,</hi> ſhews that many aged Perſons of high and low de<g ref="char:EOLhyphen"/>gree, make their <hi>Exit,</hi> and bid Adieu to <hi>Thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> World;</hi> ſome by ſudden Deaths, and ſome other<g ref="char:EOLhyphen"/>wiſe, perhaps by the Hand Juſtice; for ſeveral guil<g ref="char:EOLhyphen"/>ty <hi>Perſons,</hi> who have lain dormant along time, now with heavy ſorrowful <hi>Spirits,</hi> fear a fatal Diſ<g ref="char:EOLhyphen"/>covery. Towards the latter end of the Month <hi>Mars</hi> paſſeth the Degree of the Conjunction <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Saturn</hi> and <hi>Jupiter;</hi> which will produce very ſtrange <hi>Cataſtrophes</hi> in <hi>Italy</hi> and <hi>Rome;</hi> as burning of Houſes, Maſſacres, and Incurſions of Armies, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at leaſtwiſe ſtrange <hi>Diviſions</hi> among <hi>Themſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lves</hi> At the latter End of the Month, <hi>Jupiter</hi> paſſeth in<g ref="char:EOLhyphen"/>to <hi>Libra;</hi> which brings happy Tidings to the Hou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Auſtria:</hi> but our Young Men die apace; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:31902:16"/>much Complaint amongſt the common ſort of Peo<g ref="char:EOLhyphen"/>ple, for want of Trade and Moneys.</p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>Fine pleaſant, ſeaſonable Weather, at the begin<g ref="char:EOLhyphen"/>ning hereof, and may continue till about the 15th. day, without any conſiderable alteration; therefore, rejoyce Farmer, at the ſight of a brave Harveſt; but after the 15th. day, expect conſiderable Alteration,</hi> viz. <hi>both Wind, Rain, and Thunder; and ſo con<g ref="char:EOLhyphen"/>tinues more or leſs, to the end of Month: Therefore,</hi>
+                     <q>
+                        <l>Tak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Time whil'ſt Time doth last;</l>
+                        <l>For Time is no Time, when Time is paſt.</l>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div n="September" type="month">
+               <head>Prognoſtications on SEPTEMBER.</head>
+               <q>
+                  <p>
+                     <hi>Perturbato cordi nihil eſt jucundum.</hi>
+                  </p>
+                  <p>Nothing is pleaſant to a troubled Heart.</p>
+               </q>
+               <p>
+                  <hi>VEnus</hi> is now with the Body of <hi>Saturn</hi> in <hi>Vir<g ref="char:EOLhyphen"/>go.</hi> Some Eminent Perſon about this Time, is much afflicted with Melancholly, and in all pro<g ref="char:EOLhyphen"/>bability, may return to the Rock from whence ſhe was hewn: But this Conjunction of <hi>Saturn</hi> and <hi>Venus,</hi> doth not only concern one Woman but ma<g ref="char:EOLhyphen"/>ny; and I fear, will cauſe them to ſhed Tears, in<g ref="char:EOLhyphen"/>ſtead of wearing Pearls. Now <hi>Mars</hi> paſſes the Aſ<g ref="char:EOLhyphen"/>cendant, and the Place of <hi>Saturn</hi> in the Revoluti<g ref="char:EOLhyphen"/>on. <hi>Mars</hi> was Lord of the 4th. and <hi>Saturn</hi> of the 6th. and 7th. The Great <hi>God</hi> of Heaven deliver us from Fires, and all Contagious Diſeaſes, now and for ever more. The Heavens ſeem now to move toward an Accord; and when the Celeſtial Bo<g ref="char:EOLhyphen"/>dies agree, there is ſome hopes we ſhould do the
+<pb n="32" facs="tcp:31902:17"/>like. <hi>Jupiter</hi> is now with the Body of the <hi>Sun,</hi> and <hi>Saturn, Mars,</hi> and <hi>Venus,</hi> are all in Sextile with <hi>Mercury.</hi> O Heavens! now the Man of Lear<g ref="char:EOLhyphen"/>ning is exalted, and had in great Requeſt: and we have very rational hopes of Unity, or at leaſtwiſe a better Underſtanding amongſt the People in ge<g ref="char:EOLhyphen"/>neral, than has been ſome few Years paſt, <hi>&amp;c. Mars</hi> in Conjunction with <hi>Venus,</hi> ſhews ſome E<g ref="char:EOLhyphen"/>minent Lady in danger of a Stab, or queſtioned for her Honeſty. About the 18th. or 19th. day, <hi>Mars</hi> paſſes the very Degree he was in, at the Time of the Conjunction of <hi>Saturn</hi> and <hi>Jupiter;</hi> therefore, let all Places under the Sign <hi>Virgo</hi> look to it; for he will ſtir up ſtrange Diviſions amongſt them. I heartily wiſh, no Maſſacre there in this, or the ſucceeding Month, <hi>&amp;c.</hi>
+               </p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>The Conjunction of</hi> Saturn <hi>and</hi> Venus, <hi>at the be<g ref="char:EOLhyphen"/>ginning hereof, doth promiſe very cold Rain; but ſoon alters, and becomes more mild, till about the 16th. day; then expect high Winds, but not very Cold,</hi> &amp;c. <hi>Fine pleaſant Weather now: for</hi> 6 <hi>or</hi> 7 <hi>days; but then expect much Rain,</hi> viz. <hi>about the</hi> New Moon: <hi>yet the Month ends very ſeaſonable,</hi> &amp;c.</p>
+               </div>
+            </div>
+            <div n="October" type="month">
+               <head>Prognoſtications on OCTOBER.</head>
+               <q>
+                  <p>
+                     <hi>Concordia Eccleſia Regenda eſt:</hi>
+                  </p>
+                  <p>The Church is to be governed by Concord.</p>
+               </q>
+               <p>THE ponderous Planet <hi>Saturn</hi> moves very ſwiftly forward in the Sign <hi>Virgo;</hi> but is ſuddenly over-taken by <hi>Mars,</hi> who is not im<g ref="char:EOLhyphen"/>properly
+<pb n="33" facs="tcp:31902:17"/>termed a <hi>Tory</hi> amongſt the Stars: which Conjunction threatens <hi>Babylon, Aſſyria, Gallia, Carinthia,</hi> the Dukedom of <hi>Athens, Meſopotamia, Hieruſalem, Achaia, Greece, Creet, Lyons, Paris,</hi> and <hi>Baſil,</hi> with Mutinies, Tumults, Wars, Com<g ref="char:EOLhyphen"/>motions of Armies, Treacheries, Maſſacres, and ſtrange Rebellion; for <hi>Mars</hi> is a Stirrer up of Se<g ref="char:EOLhyphen"/>dition: Therefore cauſeth great Slaughter of Men, where there is frequent Motions of Arms. But I hope, that we in <hi>England</hi> continue in a good and p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous Condition, and our Foundation <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt firm and unſhaken; and that we enjoy both Peace and Quietneſs, though there be a continual Re<g ref="char:EOLhyphen"/>pining an o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gſt the common and vulgar ſort of People, for want of Trade, <hi>&amp;c.</hi> Great are the Counſels and Conſultations of this Month. <hi>God</hi> direct our Superiours, or Repreſentatives, in the Management of thoſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ighty Affairs that are now before them<g ref="char:punc">▪</g> In <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine, Many Perſons are very high<g ref="char:EOLhyphen"/>ly advanced, and ſome ſtruck into as deep Melan<g ref="char:EOLhyphen"/>cholly of Mind: and ſome Eminent Lady makes her <hi>Exit</hi> towards the End</p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>About the Third or Fourth Day, expect very tempeſtuous Weather; for the Conjunction of</hi> Saturn <hi>and</hi> Mars <hi>in</hi> Virgo, <hi>ſeems to aggravate the ſame, and may continue very wet and ſlabby, till the Nineth or Tenth Day; and then appears more calm, till about the 22th. Day: at which time look for much more Rain, for Four or Five Days; but afterwards it appears more mild, and ſo continues to the End.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="November" type="month">
+               <pb n="34" facs="tcp:31902:18"/>
+               <head>Prognoſtications on NOVEMBER.</head>
+               <q>
+                  <p>Tempore fiunt omina:</p>
+                  <p>All Things are done in Time.</p>
+               </q>
+               <p>
+                  <hi>MArs</hi> now enters the Sign <hi>Libra,</hi> wherein he was at the time of the ſecond and laſt Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter,</hi> in <hi>January</hi> and <hi>May</hi> 1683. The <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtrian</hi> Cedars begin to ſhake; neither doth it go <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell with <hi>Alſatia, Livonia, Ca<g ref="char:EOLhyphen"/>ſpia;</hi> and indeed, all thoſe Places under <hi>Libra.</hi> The <hi>Italian</hi> Princes begin to decline, and <hi>Germany</hi> fears no leſs than Devaſtation; and <hi>Polonia, Burgundy, France,</hi> and <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ark,</hi> are much diſſatisfied: But <hi>England</hi> ſtands upon a Rock, and her Foundation reſts firm and unſhaken. <hi>God</hi> ſo continue it to the End of the World. About the middle of the Month, we have a Conjunction of <hi>Jupiter</hi> and <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> in <hi>Libra;</hi> which may ſomewhat aſſwage the Malice of <hi>Mars:</hi> It alſo portends the Marriage of ſome worthy Lady amongſt us; as alſo the Preferment of ſome worthy deſerving Perſon, be<g ref="char:EOLhyphen"/>longing either to the Eccleſiaſtical or Legal Functi<g ref="char:EOLhyphen"/>on. Many are the Conſultations in this Month of <hi>November,</hi> and that for the general Good. The <hi>Sun</hi> labours to unite <hi>Mars</hi> and <hi>Jupiter;</hi> but <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> deſtroys their Hopes. He that is an Artiſt, knows what I mean. <hi>Mars</hi> purſues the Body of <hi>Jupiter</hi> in the Ballance</p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>Fine pleaſant Weather at the beginning hereof, Conſideration being had to the Seaſon of the Year, and may continue for the moſt part,</hi> viz. <hi>till about
+<pb n="35" facs="tcp:31902:18"/>the 26th. or 27th. Day, without any conſiderable Alteration; perhaps now and then ſome ſmall Gales of Wind, and gentle Showers of Rain; but about the 27th. Day, expect ſome notable Alteratian, with Wind or Rain; but ends pleaſant..</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="December" type="month">
+               <head>Prognoſtications on DECEMBER.</head>
+               <q>
+                  <p>
+                     <hi>Difficillimum vincere Naturum:</hi>
+                  </p>
+                  <p>It is a very hard thing to conquer Nature.</p>
+               </q>
+               <p>MAny are the Configurations of the Planets, in this Month of <hi>December;</hi> and amongſt the reſt, we ought to ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e particular Notice of the Conjunction of <hi>Mars</hi> and <hi>Jupiter,</hi> in the Ce<g ref="char:EOLhyphen"/>leſtial Ballance at the beginning hereof. All Men that are but meanly verſed in the Art of <hi>Aſtrology,</hi> knows, that <hi>Jupiter</hi> principally ſignifies all things concerning Religion, the more Pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and Orthodox Principals thereof, relating to Church Diſcipline, or the Worſhip of <hi>God:</hi> and <hi>Mars</hi> ſignifies all Mar<g ref="char:EOLhyphen"/>tial and Military Affairs, Wars, Commotions, In<g ref="char:EOLhyphen"/>ſurrections, Maſſacres, Perſecutions, and Murthers, Firing of Houſes, Cities, and Towns, Theft, Ra<g ref="char:EOLhyphen"/>pine, and all manner of Tyranny, Oppreſſion, and Villany. Therefore, what ſhall we judge from this Conjunction, but ſome ſuch unhappy Diſaſter to happen in thoſe Countries under <hi>Libra;</hi> yea, ma<g ref="char:EOLhyphen"/>ny Contentions to happen amongſt thoſe which are of the higheſt Degree and Quality. <hi>Mercury</hi> is both their Counſels; but he will deceive one in the end; and the <hi>Sun</hi> will aggravate the Danger. But how happy are we, if we could but think our
+<pb n="36" facs="tcp:31902:19"/>ſelves ſo? And many Perſons, according to their Merits, are as highly advanced; and our Mer<g ref="char:EOLhyphen"/>chants have very Proſperous Returns. And ſo <hi>God</hi> ſave the KING. <hi>Amen.</hi>
+               </p>
+               <div type="part">
+                  <head>The Weather.</head>
+                  <p>
+                     <hi>This Month begins very turbulent, and will pro<g ref="char:EOLhyphen"/>duce either Snow or Rain, about the 4th. 5th. or 6th. Days; but ſuddenly becomes more temperate: yet very cold Mornings, and ſharp Froſts now and then, between whiles, till the 19th. Day; then expect Rain or Snow; but no great quantity, yet Winter-like Weather: But from the 21ſt. to the 26th. Day, it proves very moderate; after which expect notable turbulent Weather to the End.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="publishers_note">
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>WHereas there is lately come into the World a Pamphlet by one <hi>T. T.</hi> and is entituled, <hi>Modeſt Obſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvations concerning the great Froſt,</hi> &amp;c. wherein he ſaith, None of our <hi>Aſtrologers</hi> did fore<g ref="char:EOLhyphen"/>ſee any ſuch thing. Now although it is not Mode<g ref="char:EOLhyphen"/>ſty in me, for to give him the Lie; yet if I ſhould, he may take it for his Pains: Witneſs theſe fol<g ref="char:EOLhyphen"/>lowing Perſons, whom I told of it long before it happened. But if any one hath a Deſire to know what manner of Perſon he is, let them repair to Mr. <hi>John Ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bury,</hi> who is able to give an Account of him. And farther, let <hi>T. T.</hi> know, that he is not worthy to carry the Books after our Annual Writers: Therefore, let him not condemn their Judgments in this, or the like Caſe; for indeed,
+<pb n="37" facs="tcp:31902:19"/>he hath reaſon to ſay, (and that a great deal too) That <hi>there is ſomething in Aſtrology,</hi> &amp;c.</p>
+            <p>But for his, or any others further Satisfaction, let them enquire of Mr. <hi>Thomas Ledſom,</hi> at the Bell in <hi>Cannon-Street,</hi> Plummer; Mr. <hi>John King,</hi> at the Naggs head in <hi>Fulham; John Douff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> and <hi>William Botley</hi> of <hi>Batterſea; Philip Mayle</hi> and <hi>William Apſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> at the <hi>Neat Houſes;</hi> Mr. <hi>Watts</hi> and Mr. <hi>To<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot</hi> of <hi>Chelſey; John Jones</hi> of <hi>Putney;</hi> and ſeveral of the Water-men at <hi>Fulham, Putney,</hi> and <hi>Chelſey:</hi> I ſay, All theſe are able to ſatisfie the World, That I told them almoſt half a Year before the <hi>Frost</hi> began, That the River of <hi>Thames</hi> would be frozen over before <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w-Years-Day,</hi> and would ſtand for a conſiderable Time, <hi>viz.</hi> till <hi>Candlemaſs,</hi> or thereabouts.</p>
+            <p>Beſides, in the Copy of my <hi>Almanack</hi> which was wrote for the Year 1683. in the Month of <hi>December,</hi> was theſe Prognoſtications of the Wea<g ref="char:EOLhyphen"/>ther:</p>
+            <p>
+               <hi>Remiſs of Cold begins this Month, with many dark flying Clouds, producing Wind and Snow, and now and then a ſmall Froſt; but continues not long, and ſo turns to Rain and Wind: After which fol<g ref="char:EOLhyphen"/>lows ſharp Froſts, and k<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n Ayre; for</hi> Saturn <hi>in</hi> Virgo <hi>produceth a ſharp Month. What if the Ri<g ref="char:EOLhyphen"/>ver of</hi> Thames <hi>be Frozen over, ere this Month ends,</hi> &amp;c?</p>
+            <p>The afore-ſaid Copy is to be ſeen at the Pub<g ref="char:EOLhyphen"/>liſher's hereof.</p>
+         </div>
+         <div type="part">
+            <pb n="38" facs="tcp:31902:20"/>
+            <head>A true Syſteme of the Viſible World, ex<g ref="char:EOLhyphen"/>plained according to <hi>Copurnicus,</hi> De<g ref="char:EOLhyphen"/>cember the <hi>11th. 1684.</hi>
+            </head>
+            <figure/>
+            <p>ACcording to the fore-going Syſteme, the <hi>Sun</hi> is the Center of the Lower World, which, without doubt, is the Point and Place of his Situation; and above the <hi>Sun,</hi> in the firſt Orb next the Center, is placed <hi>Mercury;</hi> who ac<g ref="char:EOLhyphen"/>compliſheth his Revolutions, through the 12 Signs of the <hi>Zodiack,</hi> in 88 days. <hi>Venus</hi> moves in the next Sphere, and finiſheth her Courſe through the <hi>Zodiack</hi> Signs, in 225 days. In the next Sph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re is the <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth,</hi> who makes her Courſe about the Body of the <hi>Sun,</hi> in a Year. About the Body of the
+<pb n="39" facs="tcp:31902:20"/>
+               <hi>Earth,</hi> is the Sphere of the <hi>Moon;</hi> who performs her Courſe in a Month Next above the <hi>Earth,</hi> wheels <hi>Mars;</hi> who per<g ref="char:EOLhyphen"/>forms his Perambulation in two Years, and no leſs, becauſe his Orb is much larger than the <hi>Earths.</hi> The next is the Sphere of <hi>Jupiter;</hi> wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> performs his Revolution in twelve Years. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d laſtly, in the higheſt Orb of all, is old <hi>Saturn;</hi> who m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es his Progreſs th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough the <hi>Zodiack,</hi> but once in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irty Years.</p>
+            <p>
+               <hi>Dear Country-Men:</hi> I having taken this ſhort Survey of the <hi>Planetary <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pheres,</hi> and aſcended <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the Center to the Circumference; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> am now <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtand, to behold the vaſt Di<g ref="char:EOLhyphen"/>ſtance of the fixed Stars; when<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xceeding far, that they are altogether void of Paraliax of the Annual Orb. There<g ref="char:EOLhyphen"/>fore i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is beyond the Capacity of Man, to obtain their Di<g ref="char:EOLhyphen"/>ſtance exactly, <hi>&amp;c</hi>
+            </p>
+            <p>My preſent Ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k in hand is to prove, That the <hi>Earth</hi> moves about the <hi>Sun,</hi> and not the <hi>Sun</hi> round the <hi>Earth:</hi> Therefore, I ſhall have recourſe to the former <hi>Figure</hi> or <hi>Sy<g ref="char:EOLhyphen"/>ſteme</hi> of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld, wherein the great outward Circle re<g ref="char:EOLhyphen"/>preſents the <hi>Zodiack,</hi> or <hi>Eight Sphere,</hi> in which the 12 <hi>Signs</hi> are placed according to their Natural Order: and that I may the better explain the Figure, I have placed the <hi>Planets</hi> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Heliocentrical, and Geocentrical to the <hi>Meridian</hi> of the 11th Day of <hi>December,</hi> 1684. Whereof the former is noted with a pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Line, being directed from the <hi>Sun;</hi> but the latter (which is the true Place from the <hi>Earth</hi>) with a Black Line; both of them paſſing through the Body of the Planet, to the <hi>Zodiack,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Angle made at the <hi>Planet,</hi> by the In<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſection of the ſaid Lines, is called the <hi>Parallax</hi> of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnual Orb: which <hi>Angle,</hi> as it increaſeth or decreaſeth, in reſpect of the mutual Poſition of the <hi>Planet,</hi> and the <hi>Earth,</hi> their ſeparation one from another, or applying one to the o<g ref="char:EOLhyphen"/>ther, is the ſole reaſon, that the <hi>Planets</hi> are b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Direct, Re<g ref="char:EOLhyphen"/>trograde, and Stationary; ſometimes near the <hi>Earth,</hi> and ſometimes far diſtant, as here in this Figure. The true place of old <hi>Saturn</hi> from the <hi>Sun</hi> repreſented by the prickt Line ♄ A, falls in 12 deg 30 min. ♍; but his true pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce in the <hi>Zodiack,</hi> as we b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hold it at the <hi>Earth</hi> is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7 deg. 8 min. of the ſame Sign, as it is ſhewed by the Line <hi>Earth</hi> ♄ b; ſo that the Angle <hi>Earth</hi> ♄ ☉ (is equal to the Angle A ♄ b) and is 4 deg.
+<pb n="40" facs="tcp:31902:21"/>38 min. which is the <hi>Parallax</hi> of the <hi>Earths Orb;</hi> and makes the <hi>Planet</hi> appear farther in the <hi>Zodiack,</hi> at the <hi>Earth,</hi> than at the <hi>Sun;</hi> and that you may know whether <hi>Saturn</hi> be Direct or Retrograde, we ſee it plainly by Inſpection with our Eyes; for the <hi>Earth</hi> moving ſwitter towards z, than <hi>Saturn</hi> doth towards n, it follows, that he is now Stationary to Retrogradation, and his Place w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll appear more backward in the <hi>Zodiack,</hi> till the <hi>Earth</hi> cometh to z, which will be the Third of <hi>May:</hi> on which day, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aturn</hi> becomes Direct, after ſome few days being Stationary, as you may perceive by the Scheme.</p>
+            <p>In <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upiter</hi>'s Orb you may obſerve, that his true Place from the <hi>Sun</hi> are is 12 deg. 10 min. of ♎: but his true P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace from the <hi>Earth</hi> at D, is 19 deg 50 min, of the ſame Sign, whereby the Angle c ♃ D, which is equal to the Angle <hi>Earth</hi> ♃ ☉ is 7 deg. 40 min. And becauſe the <hi>Earth</hi> moves ſw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter towards <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, than <hi>Jupiter</hi> doth towardt ♉, the Line drawn through the Body of <hi>Jupiter,</hi> will make him appear every Day further and further in the <hi>Zodiack,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntil ſuch time as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Earth</hi> comes to o: at which time he will ſeem Station<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry for two or three days: and then will be apparently Retrograde, until ſuch time as the <hi>Earth</hi> comes to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; as you may ſee by obſerving their Motions upon the Figure. Alſo, if you look upon <hi>Mars,</hi> you ſhall find his Place from the <hi>Sun</hi> to be 6 deg. 35 min. of ♎: but if you take his Place from the <hi>Ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th,</hi> it will be 24 deg. 11 min of the ſame Sign; and you may ſee alſo by the Figure, it is not long ſince he was with the Body of <hi>Jupiter,</hi> and in Sextile of <hi>Mercury.</hi> He hath been Direct a long time, and will continue till the <hi>Earth</hi> comes to a: then he comes Retrograde, and will appear of a greater Magnatude than ordinary, becauſe he will be nearer the <hi>Earth.</hi> Let any Man obſerve the Time, and he ſhall find it moſt containly true: If <hi>Mars</hi> be above the <hi>Earth,</hi> as I am ſure he will, the Time is <hi>April</hi> the 15th. 1685. In a word, <hi>Venus</hi> and <hi>Mercury</hi> are alſo both Direct: <hi>Mercury</hi> is near the Body of the <hi>Sun, Venus</hi> is in the Sextile to <hi>Saturn,</hi> and the <hi>Moon</hi> goes to an Oppoſition of <hi>Mercury,</hi> and an Oppo<g ref="char:EOLhyphen"/>ſition of the <hi>Sun.</hi> She will be in Oppoſition of the <hi>Sun, December</hi> the 11th. about eleven at Hight: at which time
+<pb n="41" facs="tcp:31902:21"/>ſhe will be almoſt totally Eclipſed, and that by the Inter<g ref="char:EOLhyphen"/>poſition of the groſs Body of the <hi>Earth</hi> between the Bo<g ref="char:EOLhyphen"/>dies of the <hi>Sun</hi> and <hi>Moon,</hi> as may be ſeen by the Figure at large, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <l>Kind Readers, tell me where I have erred in This,</l>
+               <l>And I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lle correct and mend what<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s done amiſs.</l>
+            </q>
+            <q>
+               <l>Let's pray for our Dread Soveraign's Life each Day and Hour,</l>
+               <l>That He May ſtill with us remain, and Rule in Power:</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>ntil which Time the King of Kings H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m ſhall remove</l>
+               <l>From this Lower Orb, into his Throne obove.</l>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="astrologers_advert">
+            <head>ADVERTISEMENT.</head>
+            <p>This is to give Notice to all Perſons, that are deſirous to be Reſolved any Lawful Questions in <hi>Aſtrology,</hi> They may repair to the ſigne of the <hi>Iron-Jack</hi> in <hi>Fetter-Lane,</hi> a Smith's Shop, at one Mrs. <hi>Adams</hi>'s; Where the <hi>Author</hi> will be ready to oblige all Perſons, to the best of his Judgment: not that he deſigneth to leave the Town of <hi>Fulham,</hi> but he will be three Days at Home: and his very good Friend, <hi>viz. Philip Mayle,</hi> the other Part of the Week. The <hi>Author</hi> will attend <hi>Mondays, Tueſ<g ref="char:EOLhyphen"/>days,</hi> and <hi>Wedneſdays</hi> himſelf. He alſo Calcu<g ref="char:EOLhyphen"/>lateth Nativities, or Teacheth the whole Art to thoſe that are deſirous to learn ſuch a harmleſs, uſe<g ref="char:EOLhyphen"/>ful, judicious Piece of Learning.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
